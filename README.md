@@ -6,7 +6,8 @@ Caracteristicas del proyecto:
   - JAVA 11
   - SPRING BOOT 2.7.0
   - GRADLE
-  - POSTGRES  
+  - POSTGRES
+  - AWS (EC2,RDS)
 
 Instalar el proyecto de mutantes en el servidor:
 
@@ -23,6 +24,8 @@ Instalar el proyecto de mutantes en el servidor:
      java -jar mutantes-1.0.jar
      
  # APIS
+ 
+    Servidor: http://ec2-184-72-209-7.compute-1.amazonaws.com:8080
     
     POST /api/mutant/
     
