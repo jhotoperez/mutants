@@ -8,6 +8,7 @@ Caracteristicas del proyecto:
   - GRADLE
   - POSTGRES
   - AWS (EC2,RDS)
+  - Junit 4
 
 Instalar el proyecto de mutantes en el servidor:
 
@@ -32,9 +33,8 @@ Instalar el proyecto de mutantes en el servidor:
     GET /api/stats
     
   
-  # COVERAGE
   
-    ![image](https://user-images.githubusercontent.com/22037819/173723379-cc953087-cdbc-45f9-8c6d-d0e8e649dfde.png)
+    
 
     
   
