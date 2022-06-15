@@ -16,7 +16,7 @@ Instalar el proyecto de mutantes en el servidor:
 
       git clone https://github.com/jhotoperez/mutants.git
 
-  2. Instalar dependecias con gradle y creacion del jar:
+  2. Instalar dependecias con gradle y creación del jar:
 
      build gradle
      
