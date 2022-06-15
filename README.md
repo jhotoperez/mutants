@@ -5,8 +5,8 @@ Caracteristicas del proyecto:
 
   - JAVA 11
   - SPRING BOOT 2.7.0
-  - GRADLE
-  - POSTGRES
+  - GRADLE 7.4.2
+  - POSTGRES 13
   - AWS (EC2,RDS)
   - Junit 4
 
