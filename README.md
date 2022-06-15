@@ -5,9 +5,10 @@ Caracteristicas del proyecto:
 
   - JAVA 11
   - SPRING BOOT 2.7.0
-  - GRADLE
-  - POSTGRES
+  - GRADLE 7.4.2
+  - POSTGRES 13
   - AWS (EC2,RDS)
+  - Junit 4
 
 Instalar el proyecto de mutantes en el servidor:
 
@@ -15,7 +16,7 @@ Instalar el proyecto de mutantes en el servidor:
 
       git clone https://github.com/jhotoperez/mutants.git
 
-  2. Instalar dependecias con gradle y creacion del jar:
+  2. Instalar dependecias con gradle y creación del jar:
 
      build gradle
      
@@ -30,6 +31,11 @@ Instalar el proyecto de mutantes en el servidor:
     POST /api/mutant/
     
     GET /api/stats
+    
+  
+  
+    
+
     
   
  
